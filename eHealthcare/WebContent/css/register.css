@@ -1,0 +1,26 @@
+body{
+	margin:0;
+	padding:0;
+	font-family:sans-serif;
+	background:url("images/mother.jpeg");
+	background-size:cover;
+
+}
+img{
+	background-size: cover;
+	height: 650px;
+	width: 100%;
+}
+.register
+{
+	color:white;
+	position:absolute;
+	top:50%;
+	left:50%;
+	transform:translate(-50%,-50%);
+	width:500px;
+	height:600px;
+	padding:40px 60px;
+	box-sizing:border-box;
+	background:rgba(0,0,0,0.5);
+}

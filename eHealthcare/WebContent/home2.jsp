@@ -6,7 +6,10 @@
 <meta charset="ISO-8859-1">
 <title>Insert title here</title>
 </head>
-<body>
 
+<body>
+<header></header>
+<h1>Welcome to E-Healthcare</h1>
+<footer></footer>
 </body>
 </html>

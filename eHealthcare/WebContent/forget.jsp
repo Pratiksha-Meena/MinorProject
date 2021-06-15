@@ -7,6 +7,8 @@
 <title>Insert title here</title>
 </head>
 <body>
-
+<h1>Enter your email</h1>
+<input type="text" name="email"/>
+<input type="submit" value="submit">
 </body>
 </html>
